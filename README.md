@@ -1,6 +1,6 @@
 # Dongle_ArmyKnife (Lilygo T-Dongle S3 Edition)
 
-This version of **USBArmyKnife** is built exclusively for the **Lilygo T-Dongle S3**. By moving away from "one-size-fits-all" code, this firmware is specifically optimized for the high-performance ESP32-S3 dual-core processor, the built-in color display, and its unique physical layout.
+This version of **[USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife)** is built exclusively for the **Lilygo T-Dongle S3**. By moving away from "one-size-fits-all" code, this firmware is specifically optimized for the high-performance ESP32-S3 dual-core processor, the built-in color display, and its unique physical layout.
 
 ## 🚀 Key Enhancements
 
