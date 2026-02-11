@@ -44,7 +44,15 @@ This build is "S3-Native," meaning:
 ## 📋 Requirements
 *   **Hardware:** [Lilygo T-Dongle S3](https://www.lilygo.cc/products/t-dongle-s3)
 *   **Storage:** MicroSD Card (FAT32 formatted)
-*   **Development:** PlatformIO or Arduino IDE (ESP32-S3 support required)
+*   **Development:** PlatformIO (ESP32-S3 support required)
+
+## 🚀 How to Flash
+1. Install VS Code and the PlatformIO extension.
+2. Create a folder named Dongle_ArmyKnife and paste the platformio.ini file.
+3. Create the src and include folders and place the code snippets into their respective files.
+4. Connect your LilyGo T-Dongle S3.
+5. Hold the Boot Button (GPIO 0) while plugging it in to enter bootloader mode if it's the first flash.
+6. Click "Upload" in PlatformIO.
 
 ## 👾 Credits & Acknowledgements
 
