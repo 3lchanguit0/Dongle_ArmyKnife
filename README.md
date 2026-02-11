@@ -54,7 +54,7 @@ This build is "S3-Native," meaning:
 *   **[bmorcelli](https://github.com/bmorcelli)** : for the inspiration with all his esp32's projects.
 
 ## ⚠️ Disclaimer
-This tool is intended for educational purposes and authorized security testing only. Use it responsibly and within the boundaries of your country law.
+This tool is intended for educational purposes and authorized security testing only. Use it responsibly and within the boundaries of your country laws.
 
 ---
 *   *Based on the USBArmyKnife project, optimized for the T-Dongle S3. Boosted by 3lchanguit0 2026.*
