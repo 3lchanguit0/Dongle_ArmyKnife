@@ -58,3 +58,4 @@ This tool is intended for educational purposes and authorized security testing o
 
 ---
 *Based on the USBArmyKnife project, optimized for the T-Dongle S3. Boosted by 3lchanguit0 2026.*
+*Hack The Planet.*
