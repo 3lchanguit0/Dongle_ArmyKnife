@@ -51,7 +51,7 @@ This build is "S3-Native," meaning:
 *   **[3lchanguit0](https://github.com/3lchanguit0)**
 *   **[i-am-shodan](https://github.com/i-am-shodan)** : for the [USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife)
 *   **[ekomsSavior](https://github.com/ekomsSavior)** : for her talent and her dope projects
-*   **[bmorcelli](https://github.com/bmorcelli)** : for the inspiration with all his esp32's work.
+*   **[bmorcelli](https://github.com/bmorcelli)** : for the inspiration with all his esp32's projects.
 
 ## ⚠️ Disclaimer
 This tool is intended for educational purposes and authorized security testing only. Use it responsibly and within the boundaries of the law.
