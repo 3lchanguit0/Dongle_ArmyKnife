@@ -57,5 +57,5 @@ This build is "S3-Native," meaning:
 This tool is intended for educational purposes and authorized security testing only. Use it responsibly and within the boundaries of your country law.
 
 ---
-*Based on the USBArmyKnife project, optimized for the T-Dongle S3. Boosted by 3lchanguit0 2026.*
-*Hack The Planet.* 🏴‍☠️🌍
+*   *Based on the USBArmyKnife project, optimized for the T-Dongle S3. Boosted by 3lchanguit0 2026.*
+*   *Hack The Planet.* 🏴‍☠️🌍
