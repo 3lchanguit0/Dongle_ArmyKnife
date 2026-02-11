@@ -1,6 +1,6 @@
 # ⚔️ Dongle_ArmyKnife (Lilygo T-Dongle S3 Edition)
 
-This version of **[USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife)** is built exclusively for the **Lilygo T-Dongle S3**. By moving away from "one-size-fits-all" code, this firmware is specifically optimized for the high-performance ESP32-S3 dual-core processor, the built-in color display, and its unique physical layout.
+This version of the **[USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife)** is built exclusively for the **Lilygo T-Dongle S3**. By moving away from "one-size-fits-all" code, this firmware is specifically optimized for the high-performance ESP32-S3 dual-core processor, the built-in color display, and its unique physical layout.
 
 ## 🚀 Key Enhancements
 
@@ -47,12 +47,12 @@ This build is "S3-Native," meaning:
 *   **Development:** PlatformIO (ESP32-S3 support required)
 
 ## 🚀 How to Flash
- 1.   Install VS Code and the PlatformIO extension.
- 2.   Create a folder named Dongle_ArmyKnife and paste the platformio.ini file.
- 3.   Create the src and include folders and place the code snippets into their respective files.
- 4.   Connect your LilyGo T-Dongle S3.
- 5.   Hold the Boot Button (GPIO 0) while plugging it in to enter bootloader mode if it's the first flash.
- 6.   Click "Upload" in PlatformIO.
+ 1.   Install **VS Code** and the **PlatformIO extension**.
+ 2.   Create a folder named `Dongle_ArmyKnife` and paste the `platformio.ini` file.
+ 3.   Create the `src` and include folders and place the code snippets into their respective files.
+ 4.   Connect your **LilyGo T-Dongle S3**.
+ 5.   Hold the **Boot Button (GPIO 0)** while plugging it in to enter `bootloader mode` if it's the first flash.
+ 6.   Click **Upload** in PlatformIO.
 
 ## 👾 Credits & Acknowledgements
 
